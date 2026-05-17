@@ -51,7 +51,7 @@ Using this data, aggregated customer-level metrics were created for further anal
 ## 🐍 Python Analytics Visuals    
 ### 📈 Total Revenue / Total Price Trend Analysis (Python)
 
-![Total Price Trend](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Graph%20Sales_Trend%20Image/total-price-trend.png)
+![Total Price Trend](https://github.com/dipendra-pardhi/Customer-360-Revenue-Dashboard/blob/main/Python%20Image/Python.png)
 
 ## Project Overview
 
