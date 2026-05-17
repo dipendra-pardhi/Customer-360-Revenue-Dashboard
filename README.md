@@ -12,7 +12,7 @@ This project focuses on building a comprehensive Customer 360 Analytics Dashboar
 ---
 
 ### 📈 Sales Analysis Dashboard
-![Sales Analysis](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/sales-analysis.png)
+![Sales Analysis]([https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/sales-analysis.png](https://github.com/dipendra-pardhi/Customer-360-Revenue-Dashboard/blob/main/Dashbord%20Images/Screenshot%202026-04-07%20015306.png))
 
 ---
 
