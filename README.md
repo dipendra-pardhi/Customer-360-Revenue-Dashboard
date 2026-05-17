@@ -27,7 +27,7 @@ This project focuses on building a comprehensive Customer 360 Analytics Dashboar
 ---
 
 ### 🎯 Customer Segmentation Dashboard
-![Customer Segmentation](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/customer-segmentation.png)
+![Customer Segmentation](https://github.com/dipendra-pardhi/Customer-360-Revenue-Dashboard/blob/main/Dashbord%20Images/Screenshot%202026-04-07%20015620.png)
 
 ## Introduction
 
@@ -47,6 +47,11 @@ The analysis is based on transactional retail data containing customer purchase 
 Using this data, aggregated customer-level metrics were created for further analysis.
 
 ---
+
+## 🐍 Python Analytics Visuals    
+### 📈 Total Revenue / Total Price Trend Analysis (Python)
+
+![Total Price Trend](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Graph%20Sales_Trend%20Image/total-price-trend.png)
 
 ## Project Overview
 
