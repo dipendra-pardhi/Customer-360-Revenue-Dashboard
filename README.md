@@ -4,6 +4,31 @@ This project focuses on building a comprehensive Customer 360 Analytics Dashboar
 
 ---
 
+## 📊 Dashboard Preview
+
+### 🏆 Executive Summary Dashboard
+![Executive Summary](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/executive-summary.png)
+
+---
+
+### 📈 Sales Analysis Dashboard
+![Sales Analysis](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/sales-analysis.png)
+
+---
+
+### 🔄 Customer Churn Analysis Dashboard
+![Churn Analysis](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/churn-analysis.png)
+
+---
+
+### 💎 Customer Lifetime Value Analysis
+![CLV Analysis](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/clv-analysis.png)
+
+---
+
+### 🎯 Customer Segmentation Dashboard
+![Customer Segmentation](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/customer-segmentation.png)
+
 ## Introduction
 
 Customer analytics plays a critical role in understanding user behavior and maximizing business revenue. This project leverages data analysis techniques such as RFM segmentation, Customer Lifetime Value (CLV), and churn analysis to provide a 360-degree view of customers. The dashboard enables businesses to identify key customer segments, track performance, and take data-driven actions.
