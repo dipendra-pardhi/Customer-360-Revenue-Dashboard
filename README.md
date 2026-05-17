@@ -7,7 +7,7 @@ This project focuses on building a comprehensive Customer 360 Analytics Dashboar
 ## 📊 Dashboard Preview
 
 ### 🏆 Executive Summary Dashboard
-![Executive Summary](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/executive-summary.png)
+![Executive Summary]([https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/executive-summary.png](https://github.com/dipendra-pardhi/Customer-360-Revenue-Dashboard/blob/main/Dashbord%20Images/Screenshot%202026-04-07%20030044.png))
 
 ---
 
