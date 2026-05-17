@@ -17,7 +17,7 @@ This project focuses on building a comprehensive Customer 360 Analytics Dashboar
 ---
 
 ### 🔄 Customer Churn Analysis Dashboard
-![Churn Analysis](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/churn-analysis.png)
+![Churn Analysis](https://github.com/dipendra-pardhi/Customer-360-Revenue-Dashboard/blob/main/Dashbord%20Images/Screenshot%202026-04-07%20015554.png)
 
 ---
 
